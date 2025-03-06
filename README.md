@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there, I'm Angel! 👋
+- 💻 I majored in Computer Engineering at UNAM, Mexico
+- 🔬 I'm currently learning cloud computing (AWS), game development fundamentals and diving deeper into Linux
 
 <!--
 **AngelAlvCam/angelalvcam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
